@@ -1,5 +1,7 @@
 # CloudPic - AI Image Generation Platform
 
+Live Demo: https://cloud-pic.vercel.app/
+
 A modern full-stack application for generating AI-powered images using DALL-E, with an integrated image editor and community gallery.
 
 ## Features
