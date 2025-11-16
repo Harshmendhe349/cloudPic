@@ -1,8 +1,27 @@
-# React + Vite
+# CloudPic Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + Vite frontend for CloudPic AI Image Generation Platform.
 
-Currently, two official plugins are available:
+## Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Create `.env` file:
+```env
+VITE_API_BASE_URL=http://localhost:8080
+```
+
+3. Start development server:
+```bash
+npm run dev
+```
+
+## Features
+
+- AI Image Generation
+- Image Editor with Konva.js
+- Community Gallery
+- Modern UI with TailwindCSS

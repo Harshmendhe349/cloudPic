@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "file-saver": "^2.0.5",
+    "konva": "^9.3.22",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.23.1"
+    "react-konva": "^18.2.14",
+    "react-router-dom": "^6.23.1",
+    "use-image": "^1.1.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
